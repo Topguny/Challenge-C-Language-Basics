@@ -1,0 +1,7 @@
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\bin\Debug\Csharp Language Basics.exe.config
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\bin\Debug\Csharp Language Basics.exe
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\bin\Debug\Csharp Language Basics.pdb
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\obj\Debug\Csharp Language Basics.csprojResolveAssemblyReference.cache
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\obj\Debug\Csharp Language Basics.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\obj\Debug\Csharp Language Basics.exe
+C:\Users\lukas\source\repos\Csharp Language Basics\Csharp Language Basics\obj\Debug\Csharp Language Basics.pdb
